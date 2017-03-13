@@ -1,6 +1,6 @@
 /****************************************************** 
  * Author: Juan Antonio Castro García
- * Date: 02/03/2017 (DD/MM/YYYY)
+ * Date: 12/03/2017 (DD/MM/YYYY)
  * License: LGPL v3.0
  * Contact: jcastrodte AT gmail DOT com
  ******************************************************/
